@@ -1,2 +1,2 @@
 This is a text file.
-created for feature branch.
+created for feature branch2.
