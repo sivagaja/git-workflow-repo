@@ -1,2 +1,4 @@
 This is a use-case of git workflow.
 Run with feature branch changes.
+Changes done in release branch
+changes done in hotfix branch.
